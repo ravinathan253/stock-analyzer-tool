@@ -1,0 +1,902 @@
+{
+    "RELIANCE": {
+        "id": "1127",
+        "path": "1127/RELIANCE/reliance-industries-ltd"
+    },
+    "TCS": {
+        "id": "1154",
+        "path": "1154/TCS/tata-consultancy-services-ltd"
+    },
+    "HDFCBANK": {
+        "id": "496",
+        "path": "496/HDFCBANK/hdfc-bank-ltd"
+    },
+    "INFY": {
+        "id": "667",
+        "path": "667/INFY/infosys-ltd"
+    },
+    "SBIN": {
+        "id": "1193",
+        "path": "1193/SBIN/state-bank-of-india"
+    },
+    "BHARTIARTL": {
+        "id": "187",
+        "path": "187/BHARTIARTL/bharti-airtel-ltd"
+    },
+    "ICICIBANK": {
+        "id": "497",
+        "path": "497/ICICIBANK/icici-bank-ltd"
+    },
+    "KOTAKBANK": {
+        "id": "1922",
+        "path": "1922/KOTAKBANK/kotak-mahindra-bank-ltd"
+    },
+    "LT": {
+        "id": "800",
+        "path": "800/LT/larsen-toubro-ltd"
+    },
+    "HINDUNILVR": {
+        "id": "512",
+        "path": "512/HINDUNILVR/hindustan-unilever-ltd"
+    },
+    "AXISBANK": {
+        "id": "140",
+        "path": "140/AXISBANK/axis-bank-ltd"
+    },
+    "BAJFINANCE": {
+        "id": "150",
+        "path": "150/BAJFINANCE/bajaj-finance-ltd"
+    },
+    "ASIANPAINT": {
+        "id": "117",
+        "path": "117/ASIANPAINT/asian-paints-ltd"
+    },
+    "MARUTI": {
+        "id": "833",
+        "path": "833/MARUTI/maruti-suzuki-india-ltd"
+    },
+    "SUNPHARMA": {
+        "id": "1316",
+        "path": "1316/SUNPHARMA/sun-pharmaceutical-industries-ltd"
+    },
+    "TITAN": {
+        "id": "1403",
+        "path": "1403/TITAN/titan-company-ltd"
+    },
+    "ADANIPORTS": {
+        "id": "1502",
+        "path": "1502/ADANIPORTS/adaani-ports-special-economic-zone-ltd"
+    },
+    "ONGC": {
+        "id": "1873",
+        "path": "1873/ONGC/oil-natural-gas-corporation-ltd"
+    },
+    "NTPC": {
+        "id": "1167",
+        "path": "1167/NTPC/ntpc-ltd"
+    },
+    "POWERGRID": {
+        "id": "1109",
+        "path": "1109/POWERGRID/power-grid-corporation-of-india-ltd"
+    },
+    "COALINDIA": {
+        "id": "178",
+        "path": "178/COALINDIA/coal-india-ltd"
+    },
+    "JSWSTEEL": {
+        "id": "644",
+        "path": "644/JSWSTEEL/jsw-steel-ltd"
+    },
+    "TATASTEEL": {
+        "id": "1379",
+        "path": "1379/TATASTEEL/tata-steel-ltd"
+    },
+    "HINDALCO": {
+        "id": "483",
+        "path": "483/HINDALCO/hindustan-zinc-ltd"
+    },
+    "ULTRACEMCO": {
+        "id": "742",
+        "path": "742/ULTRACEMCO/ultratech-cement-ltd"
+    },
+    "SHREECEM": {
+        "id": "1270",
+        "path": "1270/SHREECEM/shree-cement-ltd"
+    },
+    "DRREDDY": {
+        "id": "422",
+        "path": "422/DRREDDY/dr-reddys-laboratories-ltd"
+    },
+    "CIPLA": {
+        "id": "163",
+        "path": "163/CIPLA/cipla-ltd"
+    },
+    "DIVISLAB": {
+        "id": "404",
+        "path": "404/DIVISLAB/divis-laboratories-ltd"
+    },
+    "BIOCON": {
+        "id": "197",
+        "path": "197/BIOCON/biocon-ltd"
+    },
+    "HEROMOTOCO": {
+        "id": "540",
+        "path": "540/HEROMOTOCO/hero-motocorp-ltd"
+    },
+    "BAJAJFINSV": {
+        "id": "147",
+        "path": "147/BAJAJFINSV/bajaj-finserv-ltd"
+    },
+    "SUNTV": {
+        "id": "1341",
+        "path": "1341/SUNTV/tv18-broadcast-ltd"
+    },
+    "WIPRO": {
+        "id": "760",
+        "path": "760/WIPRO/wipro-ltd"
+    },
+    "HCLTECH": {
+        "id": "531",
+        "path": "531/HCLTECH/hcl-technologies-ltd"
+    },
+    "TECHM": {
+        "id": "1380",
+        "path": "1380/TECHM/tech-mahindra-ltd"
+    },
+    "M&M": {
+        "id": "803",
+        "path": "803/M&M/mahindra-mahindra-ltd"
+    },
+    "EICHERMOT": {
+        "id": "360",
+        "path": "360/EICHERMOT/eicher-motors-ltd"
+    },
+    "BPCL": {
+        "id": "210",
+        "path": "210/BPCL/bharat-petroleum-corporation-ltd"
+    },
+    "IOC": {
+        "id": "578",
+        "path": "578/IOC/indian-oil-corporation-ltd"
+    },
+    "GRASIM": {
+        "id": "459",
+        "path": "459/GRASIM/grasim-industries-ltd"
+    },
+    "ADANIENT": {
+        "id": "25",
+        "path": "25/ADANIENT/adaani-enterprises-ltd"
+    },
+    "ADANIGREEN": {
+        "id": "1893",
+        "path": "1893/ADANIGREEN/adaani-green-energy-ltd"
+    },
+    "GMRINFRA": {
+        "id": "466",
+        "path": "466/GMRINFRA/gmr-infrastructure-ltd"
+    },
+    "LIC": {
+        "id": "5432",
+        "path": "5432/LIC/life-insurance-corporation-of-india"
+    },
+    "SBILIFE": {
+        "id": "1350",
+        "path": "1350/SBILIFE/sbi-life-insurance-company-ltd"
+    },
+    "ICICIGI": {
+        "id": "61147",
+        "path": "61147/ICICIGI/icici-lombard-general-insurance-company-ltd"
+    },
+    "HDFCLIFE": {
+        "id": "4769",
+        "path": "4769/HDFCLIFE/hdfc-life-insurance-company-ltd"
+    },
+    "BAJALLIANCE": {
+        "id": "1356",
+        "path": "1356/BAJALLIANCE/bajaj-allianz-general-insurance-company-ltd"
+    },
+    "PIDILITIND": {
+        "id": "1128",
+        "path": "1128/PIDILITIND/pidilite-industries-ltd"
+    },
+    "DEEPAKNTR": {
+        "id": "1004",
+        "path": "1004/DEEPAKNTR/deepak-nitrates-ltd"
+    },
+    "SRF": {
+        "id": "565",
+        "path": "565/SRF/srf-ltd"
+    },
+    "AMBUJACEM": {
+        "id": "67",
+        "path": "67/AMBUJACEM/ambuja-cements-ltd"
+    },
+    "ACC": {
+        "id": "12",
+        "path": "12/ACC/acc-ltd"
+    },
+    "GRANULES": {
+        "id": "4665",
+        "path": "4665/GRANULES/granules-india-ltd"
+    },
+    "AUROPHARMA": {
+        "id": "132",
+        "path": "132/AUROPHARMA/aurobindo-pharma-ltd"
+    },
+    "GLENMARK": {
+        "id": "456",
+        "path": "456/GLENMARK/glenmark-pharmaceuticals-ltd"
+    },
+    "LUPIN": {
+        "id": "792",
+        "path": "792/LUPIN/lupin-ltd"
+    },
+    "CADILAHC": {
+        "id": "227",
+        "path": "227/CADILAHC/zydus-lifesciences-ltd"
+    },
+    "METROPOLIS": {
+        "id": "931",
+        "path": "931/METROPOLIS/metropolis-healthcare-ltd"
+    },
+    "LAURUSLABS": {
+        "id": "5402",
+        "path": "5402/LAURUSLABS/laurus-labs-ltd"
+    },
+    "MYLAN": {
+        "id": "2539",
+        "path": "2539/MYLAN/mylan-laboratories-ltd"
+    },
+    "ABB": {
+        "id": "1092",
+        "path": "1092/ABB/abb-india-ltd"
+    },
+    "SIEMENS": {
+        "id": "1242",
+        "path": "1242/SIEMENS/siemens-ltd"
+    },
+    "SCHNEIDER": {
+        "id": "542",
+        "path": "542/SCHNEIDER/schneider-electric-infrastructure-ltd"
+    },
+    "BHEL": {
+        "id": "183",
+        "path": "183/BHEL/bharat-heavy-electricals-ltd"
+    },
+    "CUMMINS": {
+        "id": "364",
+        "path": "364/CUMMINS/cummins-india-ltd"
+    },
+    "TRIVENI": {
+        "id": "1419",
+        "path": "1419/TRIVENI/triveni-turbine-ltd"
+    },
+    "KALPATPOWR": {
+        "id": "1033",
+        "path": "1033/KALPATPOWR/kalpataru-power-transmission-ltd"
+    },
+    "ADANI": {
+        "id": "1929",
+        "path": "1929/ADANI/adaani-power-ltd"
+    },
+    "TATAPOWER": {
+        "id": "1286",
+        "path": "1286/TATAPOWER/tata-power-company-ltd"
+    },
+    "TORNTPOWER": {
+        "id": "691",
+        "path": "691/TORNTPOWER/torrent-power-ltd"
+    },
+    "NHPC": {
+        "id": "1048",
+        "path": "1048/NHPC/national-hydroelectric-power-corporation-ltd"
+    },
+    "SJVN": {
+        "id": "1217",
+        "path": "1217/SJVN/sjvn-ltd"
+    },
+    "HFCL": {
+        "id": "482",
+        "path": "482/HFCL/hfcl-ltd"
+    },
+    "TEAMLEASE": {
+        "id": "3704",
+        "path": "3704/TEAMLEASE/teamlease-services-ltd"
+    },
+    "PERSISTENT": {
+        "id": "1023",
+        "path": "1023/PERSISTENT/persistent-systems-ltd"
+    },
+    "COFORGE": {
+        "id": "942",
+        "path": "942/COFORGE/coforge-ltd"
+    },
+    "LTIM": {
+        "id": "4596",
+        "path": "4596/LTIM/ltimindtree-ltd"
+    },
+    "JUSTDIAL": {
+        "id": "1017",
+        "path": "1017/JUSTDIAL/just-dial-ltd"
+    },
+    "POLICYBAZAR": {
+        "id": "4314",
+        "path": "4314/POLICYBAZAR/policybazaar-insurance-marketing-private-limited"
+    },
+    "ZOMATO": {
+        "id": "5490",
+        "path": "5490/ZOMATO/zomato-ltd"
+    },
+    "SWIGGY": {
+        "id": "17827",
+        "path": "17827/SWIGGY/swiggy-ltd"
+    },
+    "DMART": {
+        "id": "3152",
+        "path": "3152/DMART/avenue-super-marts-ltd"
+    },
+    "APOLLOPLMB": {
+        "id": "1354",
+        "path": "1354/APOLLOPLMB/apollo-pipeline-products-ltd"
+    },
+    "APOLLOTYRE": {
+        "id": "95",
+        "path": "95/APOLLOTYRE/apollo-tyres-ltd"
+    },
+    "MRF": {
+        "id": "836",
+        "path": "836/MRF/mrf-ltd"
+    },
+    "CEAT": {
+        "id": "262",
+        "path": "262/CEAT/ceat-ltd"
+    },
+    "BALKRISIND": {
+        "id": "1631",
+        "path": "1631/BALKRISIND/balkrishna-industries-ltd"
+    },
+    "JKCEMENT": {
+        "id": "672",
+        "path": "672/JKCEMENT/jk-cement-ltd"
+    },
+    "RAMCOCEM": {
+        "id": "1135",
+        "path": "1135/RAMCOCEM/ramco-cements-ltd"
+    },
+    "BHEEMACEM": {
+        "id": "5421",
+        "path": "5421/BHEEMACEM/bheem-cement-ltd"
+    },
+    "INDIACEM": {
+        "id": "560",
+        "path": "560/INDIACEM/india-cements-ltd"
+    },
+    "PRSMJPRSN": {
+        "id": "5019",
+        "path": "5019/PRSMJPRSN/prism-johnson-cements-ltd"
+    },
+    "BORORENEW": {
+        "id": "5337",
+        "path": "5337/BORORENEW/boros-renewable-ltd"
+    },
+    "BLUESTAR": {
+        "id": "205",
+        "path": "205/BLUESTAR/blue-star-ltd"
+    },
+    "VOLTAS": {
+        "id": "1514",
+        "path": "1514/VOLTAS/voltas-ltd"
+    },
+    "LLOYDSMET": {
+        "id": "1260",
+        "path": "1260/LLOYDSMET/lloyds-metals-engineers-ltd"
+    },
+    "JINDALSTEL": {
+        "id": "612",
+        "path": "612/JINDALSTEL/jindal-steel-power-ltd"
+    },
+    "WELSPUNCORP": {
+        "id": "3043",
+        "path": "3043/WELSPUNCORP/welspun-corp-ltd"
+    },
+    "RIIL": {
+        "id": "1117",
+        "path": "1117/RIIL/ram-cooperative-iron-ltd"
+    },
+    "PRAJIND": {
+        "id": "1054",
+        "path": "1054/PRAJIND/praj-industries-ltd"
+    },
+    "KIRLOSENG": {
+        "id": "690",
+        "path": "690/KIRLOSENG/kirloskar-electric-company-ltd"
+    },
+    "KAJARIACER": {
+        "id": "458",
+        "path": "458/KAJARIACER/kajaria-ceramics-ltd"
+    },
+    "SOMANYCERA": {
+        "id": "522",
+        "path": "522/SOMANYCERA/somany-ceramics-ltd"
+    },
+    "ASIANTILES": {
+        "id": "3016",
+        "path": "3016/ASIANTILES/asian-granites-ltd"
+    },
+    "CERA": {
+        "id": "1068",
+        "path": "1068/CERA/cera-sanitaryware-ltd"
+    },
+    "CENTURYPLY": {
+        "id": "302",
+        "path": "302/CENTURYPLY/century-textiles-ltd"
+    },
+    "GREENPANEL": {
+        "id": "5406",
+        "path": "5406/GREENPANEL/greenpanel-industries-ltd"
+    },
+    "PANATURA": {
+        "id": "5387",
+        "path": "5387/PANATURA/panacea-biotech-ltd"
+    },
+    "NATCOPHARM": {
+        "id": "868",
+        "path": "868/NATCOPHARM/natco-pharma-ltd"
+    },
+    "GLAXO": {
+        "id": "4589",
+        "path": "4589/GLAXO/glaxo-smithkline-pharmaceuticals-ltd"
+    },
+    "MERCK": {
+        "id": "5005",
+        "path": "5005/MERCK/merck-specialty-healthcare-ltd"
+    },
+    "COROMANDEL": {
+        "id": "324",
+        "path": "324/COROMANDEL/coromandel-international-ltd"
+    },
+    "UPL": {
+        "id": "768",
+        "path": "768/UPL/upl-ltd"
+    },
+    "SUMICHEM": {
+        "id": "572",
+        "path": "572/SUMICHEM/sumi-chemicals-ltd"
+    },
+    "TATACHEM": {
+        "id": "1306",
+        "path": "1306/TATACHEM/tata-chemicals-ltd"
+    },
+    "ALKYLAMINE": {
+        "id": "536",
+        "path": "536/ALKYLAMINE/alkyl-amine-chemicals-ltd"
+    },
+    "TANLA": {
+        "id": "5430",
+        "path": "5430/TANLA/tanla-platforms-ltd"
+    },
+    "ROUTE": {
+        "id": "6001",
+        "path": "6001/ROUTE/route-mobile-ltd"
+    },
+    "CONTROLPR": {
+        "id": "543",
+        "path": "543/CONTROLPR/control-print-ltd"
+    },
+    "GRWRMOORE": {
+        "id": "3741",
+        "path": "3741/GRWRMOORE/gartner-green-moore-ltd"
+    },
+    "CAMS": {
+        "id": "3579",
+        "path": "3579/CAMS/computers-age-management-services-ltd"
+    },
+    "CDSL": {
+        "id": "3374",
+        "path": "3374/CDSL/central-depository-services-ltd"
+    },
+    "NDGL": {
+        "id": "3457",
+        "path": "3457/NDGL/bharti-artl-associates-ltd"
+    },
+    "BSE": {
+        "id": "52884",
+        "path": "52884/BSE/bse-ltd"
+    },
+    "NSE": {
+        "id": "2212",
+        "path": "2212/NSE/nse-ltd"
+    },
+    "MCX": {
+        "id": "853",
+        "path": "853/MCX/multi-commodity-exchange-of-india-ltd"
+    },
+    "360ONE": {
+        "id": "166089",
+        "path": "166089/360ONE/360-one-wam-ltd"
+    },
+    "ANGELONE": {
+        "id": "300864",
+        "path": "300864/ANGELONE/angel-one-ltd"
+    },
+    "FLIPKART": {
+        "id": "7458",
+        "path": "7458/FLIPKART/flipkart-ltd"
+    },
+    "PAYTM": {
+        "id": "11552",
+        "path": "11552/PAYTM/one97-communications-ltd"
+    },
+    "RAZORPAY": {
+        "id": "18226",
+        "path": "18226/RAZORPAY/razorpay-software-pvt-ltd"
+    },
+    "UPSTOX": {
+        "id": "18191",
+        "path": "18191/UPSTOX/razorsecurities-ltd"
+    },
+    "OFSS": {
+        "id": "964",
+        "path": "964/OFSS/oracle-financial-services-software-ltd"
+    },
+    "ADANIENSOL": {
+        "id": "1759",
+        "path": "1759/ADANIENSOL/adani-energy-solutions-ltd"
+    },
+    "PNBHOUSING": {
+        "id": "4826",
+        "path": "4826/PNBHOUSING/pnb-housing-finance-ltd"
+    },
+    "PPLPHARMA": {
+        "id": "1093348",
+        "path": "1093348/PPLPHARMA/piramal-pharma-ltd"
+    },
+    "POWERINDIA": {
+        "id": "202203",
+        "path": "202203/POWERINDIA/hitachi-energy-india-ltd"
+    },
+    "SUZLON": {
+        "id": "1337",
+        "path": "1337/SUZLON/suzlon-energy-ltd"
+    },
+    "ADANIPOWER": {
+        "id": "28",
+        "path": "28/ADANIPOWER/adani-power-ltd"
+    },
+    "NESTLEIND": {
+        "id": "930",
+        "path": "930/NESTLEIND/nestle-india-ltd"
+    },
+    "VBL": {
+        "id": "4813",
+        "path": "4813/VBL/varun-beverages-ltd"
+    },
+    "COCHINSHIP": {
+        "id": "57095",
+        "path": "57095/COCHINSHIP/cochin-shipyard-ltd"
+    },
+    "HUDCO": {
+        "id": "54143",
+        "path": "54143/HUDCO/housing-and-urban-development-corporation-ltd"
+    },
+    "UNITDSPR": {
+        "id": "851",
+        "path": "851/UNITDSPR/united-spirits-ltd"
+    },
+    "FORTIS": {
+        "id": "424",
+        "path": "424/FORTIS/fortis-healthcare-ltd"
+    },
+    "INOXWIND": {
+        "id": "1627",
+        "path": "1627/INOXWIND/inox-wind-ltd"
+    },
+    "TIINDIA": {
+        "id": "67548",
+        "path": "67548/TIINDIA/tube-investments-of-india-ltd"
+    },
+    "CGPOWER": {
+        "id": "293",
+        "path": "293/CGPOWER/cg-power-and-industrial-solutions-ltd"
+    },
+    "COLPAL": {
+        "id": "276",
+        "path": "276/COLPAL/colgate-palmolive-india-ltd"
+    },
+    "MANKIND": {
+        "id": "1436676",
+        "path": "1436676/MANKIND/mankind-pharma-ltd"
+    },
+    "SAIL": {
+        "id": "1165",
+        "path": "1165/SAIL/steel-authority-of-india-sail-ltd"
+    },
+    "MANAPPURAM": {
+        "id": "827",
+        "path": "827/MANAPPURAM/manappuram-finance-ltd"
+    },
+    "POLICYBZR": {
+        "id": "710819",
+        "path": "710819/POLICYBZR/pb-fintech-ltd"
+    },
+    "JSWENERGY": {
+        "id": "697",
+        "path": "697/JSWENERGY/jsw-energy-ltd"
+    },
+    "VMM": {
+        "id": "2839786",
+        "path": "2839786/VMM/vishal-mega-mart-ltd"
+    },
+    "IREDA": {
+        "id": "1791996",
+        "path": "1791996/IREDA/indian-renewable-energy-development-agency-ltd"
+    },
+    "EXIDEIND": {
+        "id": "404",
+        "path": "404/EXIDEIND/exide-industries-ltd"
+    },
+    "INDUSINDBK": {
+        "id": "625",
+        "path": "625/INDUSINDBK/indusind-bank-ltd"
+    },
+    "AUBANK": {
+        "id": "54902",
+        "path": "54902/AUBANK/au-small-finance-bank-ltd"
+    },
+    "MARICO": {
+        "id": "840",
+        "path": "840/MARICO/marico-ltd"
+    },
+    "JUBLFOOD": {
+        "id": "701",
+        "path": "701/JUBLFOOD/jubilant-foodworks-ltd"
+    },
+    "TATACONSUM": {
+        "id": "1359",
+        "path": "1359/TATACONSUM/tata-consumer-products-ltd"
+    },
+    "KEI": {
+        "id": "729",
+        "path": "729/KEI/kei-industries-ltd"
+    },
+    "AMBER": {
+        "id": "73518",
+        "path": "73518/AMBER/amber-enterprises-india-ltd"
+    },
+    "JIOFIN": {
+        "id": "1564869",
+        "path": "1564869/JIOFIN/jio-financial-services-ltd"
+    },
+    "PRESTIGE": {
+        "id": "1071",
+        "path": "1071/PRESTIGE/prestige-estates-projects-ltd"
+    },
+    "MAZDOCK": {
+        "id": "305195",
+        "path": "305195/MAZDOCK/mazagon-dock-shipbuilders-ltd"
+    },
+    "GODREJPROP": {
+        "id": "478",
+        "path": "478/GODREJPROP/godrej-properties-ltd"
+    },
+    "BANDHANBNK": {
+        "id": "79883",
+        "path": "79883/BANDHANBNK/bandhan-bank-ltd"
+    },
+    "TRENT": {
+        "id": "1412",
+        "path": "1412/TRENT/trent-ltd"
+    },
+    "GAIL": {
+        "id": "431",
+        "path": "431/GAIL/gail-india-ltd"
+    },
+    "MOTHERSON": {
+        "id": "878",
+        "path": "878/MOTHERSON/samvardhana-motherson-international-ltd"
+    },
+    "CUMMINSIND": {
+        "id": "297",
+        "path": "297/CUMMINSIND/cummins-india-ltd"
+    },
+    "RECLTD": {
+        "id": "1119",
+        "path": "1119/RECLTD/rec-ltd"
+    },
+    "NMDC": {
+        "id": "949",
+        "path": "949/NMDC/nmdc-ltd"
+    },
+    "BLUESTARCO": {
+        "id": "209",
+        "path": "209/BLUESTARCO/blue-star-ltd"
+    },
+    "APOLLOHOSP": {
+        "id": "93",
+        "path": "93/APOLLOHOSP/apollo-hospitals-enterprise-ltd"
+    },
+    "HDFCAMC": {
+        "id": "94155",
+        "path": "94155/HDFCAMC/hdfc-asset-management-company-ltd"
+    },
+    "PFC": {
+        "id": "1026",
+        "path": "1026/PFC/power-finance-corporation-ltd"
+    },
+    "FEDERALBNK": {
+        "id": "412",
+        "path": "412/FEDERALBNK/federal-bank-ltd"
+    },
+    "PETRONET": {
+        "id": "1025",
+        "path": "1025/PETRONET/petronet-lng-ltd"
+    },
+    "OIL": {
+        "id": "1127",
+        "path": "1127/RELIANCE/reliance-industries-ltd"
+    },
+    "LTF": {
+        "id": "777",
+        "path": "777/LTF/l-t-finance-ltd"
+    },
+    "NAM-INDIA": {
+        "id": "64356",
+        "path": "64356/NAM-INDIA/nippon-life-india-asset-management-ltd"
+    },
+    "NBCC": {
+        "id": "916",
+        "path": "916/NBCC/nbcc-india-ltd"
+    },
+    "NYKAA": {
+        "id": "705188",
+        "path": "705188/NYKAA/fsn-e-commerce-ventures-ltd"
+    },
+    "BHARATFORG": {
+        "id": "184",
+        "path": "184/BHARATFORG/bharat-forge-ltd"
+    },
+    "CONCOR": {
+        "id": "279",
+        "path": "279/CONCOR/container-corporation-of-india-ltd"
+    },
+    "BRITANNIA": {
+        "id": "220",
+        "path": "220/BRITANNIA/britannia-industries-ltd"
+    },
+    "POLYCAB": {
+        "id": "139599",
+        "path": "139599/POLYCAB/polycab-india-ltd"
+    },
+    "PAGEIND": {
+        "id": "994",
+        "path": "994/PAGEIND/page-industries-ltd"
+    },
+    "UNOMINDA": {
+        "id": "864",
+        "path": "864/UNOMINDA/uno-minda-ltd"
+    },
+    "MAXHEALTH": {
+        "id": "276825",
+        "path": "276825/MAXHEALTH/max-healthcare-institute-ltd"
+    },
+    "PREMIERENE": {
+        "id": "2571009",
+        "path": "2571009/PREMIERENE/premier-energies-ltd"
+    },
+    "NATIONALUM": {
+        "id": "911",
+        "path": "911/NATIONALUM/national-aluminium-company-ltd"
+    },
+    "SOLARINDS": {
+        "id": "1263",
+        "path": "1263/SOLARINDS/solar-industries-india-ltd"
+    },
+    "IDEA": {
+        "id": "589",
+        "path": "589/IDEA/vodafone-idea-ltd"
+    },
+    "LICHSGFIN": {
+        "id": "790",
+        "path": "790/LICHSGFIN/lic-housing-finance-ltd"
+    },
+    "TORNTPHARM": {
+        "id": "1409",
+        "path": "1409/TORNTPHARM/torrent-pharmaceuticals-ltd"
+    },
+    "MOTILALOFS": {
+        "id": "879",
+        "path": "879/MOTILALOFS/motilal-oswal-financial-services-ltd"
+    },
+    "ABCAPITAL": {
+        "id": "61684",
+        "path": "61684/ABCAPITAL/aditya-birla-capital-ltd"
+    },
+    "SONACOMS": {
+        "id": "547977",
+        "path": "547977/SONACOMS/sona-blw-precision-forgings-ltd"
+    },
+    "BAJAJHLDNG": {
+        "id": "149",
+        "path": "149/BAJAJHLDNG/bajaj-holdings-investment-ltd"
+    },
+    "PGEL": {
+        "id": "1031",
+        "path": "1031/PGEL/pg-electroplast-ltd"
+    },
+    "ETERNAL": {
+        "id": "589490",
+        "path": "589490/ETERNAL/eternal-ltd"
+    },
+    "PHOENIXLTD": {
+        "id": "1036",
+        "path": "1036/PHOENIXLTD/phoenix-mills-ltd"
+    },
+    "SUPREMEIND": {
+        "id": "1324",
+        "path": "1324/SUPREMEIND/supreme-industries-ltd"
+    },
+    "OBEROIRLTY": {
+        "id": "962",
+        "path": "962/OBEROIRLTY/oberoi-realty-ltd"
+    },
+    "LODHA": {
+        "id": "460813",
+        "path": "460813/LODHA/lodha-developers-ltd"
+    },
+    "DELHIVERY": {
+        "id": "888524",
+        "path": "888524/DELHIVERY/delhivery-ltd"
+    },
+    "DLF": {
+        "id": "337",
+        "path": "337/DLF/dlf-ltd"
+    },
+    "ZYDUSLIFE": {
+        "id": "229",
+        "path": "229/ZYDUSLIFE/zydus-lifesciences-ltd"
+    },
+    "KAYNES": {
+        "id": "1124672",
+        "path": "1124672/KAYNES/kaynes-technology-india-ltd"
+    },
+    "DIXON": {
+        "id": "60393",
+        "path": "60393/DIXON/dixon-technologies-india-ltd"
+    },
+    "CROMPTON": {
+        "id": "2020",
+        "path": "2020/CROMPTON/crompton-greaves-consumer-electricals-ltd"
+    },
+    "RBLBANK": {
+        "id": "4685",
+        "path": "4685/RBLBANK/rbl-bank-ltd"
+    },
+    "GMRAIRPORT": {
+        "id": "472",
+        "path": "472/GMRAIRPORT/gmr-airports-ltd"
+    },
+    "INDUSTOWER": {
+        "id": "629",
+        "path": "629/INDUSTOWER/indus-towers-ltd"
+    },
+    "WAAREEENER": {
+        "id": "2723026",
+        "path": "2723026/WAAREEENER/waaree-energies-ltd"
+    },
+    "BOSCHLTD": {
+        "id": "214",
+        "path": "214/BOSCHLTD/bosch-ltd"
+    },
+    "ITC": {
+        "id": "647",
+        "path": "647/ITC/itc-ltd"
+    },
+    "INDHOTEL": {
+        "id": "606",
+        "path": "606/INDHOTEL/indian-hotels-company-ltd"
+    },
+    "PIIND": {
+        "id": "1038",
+        "path": "1038/PIIND/pi-industries-ltd"
+    }
+}
