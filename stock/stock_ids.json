@@ -898,5 +898,117 @@
     "PIIND": {
         "id": "1038",
         "path": "1038/PIIND/pi-industries-ltd"
+    },
+    "GODFRYPHLP": {
+        "id": "475",
+        "path": "475/GODFRYPHLP/godfrey-phillips-india-ltd"
+    },
+    "YESBANK": {
+        "id": "1535",
+        "path": "1535/YESBANK/yes-bank-ltd"
+    },
+    "IEX": {
+        "id": "1403886",
+        "path": "1403886/IEX/idex-corporation"
+    },
+    "VEDL": {
+        "id": "1289",
+        "path": "1289/VEDL/vedanta-ltd"
+    },
+    "KFINTECH": {
+        "id": "1253626",
+        "path": "1253626/KFINTECH/kfin-technologies-ltd"
+    },
+    "NUVAMA": {
+        "id": "1715909",
+        "path": "1715909/NUVAMA/nuvama-wealth-management-ltd"
+    },
+    "BAJAJ-AUTO": {
+        "id": "144",
+        "path": "144/BAJAJ-AUTO/bajaj-auto-ltd"
+    },
+    "HINDZINC": {
+        "id": "561",
+        "path": "561/HINDZINC/hindustan-zinc-ltd"
+    },
+    "TMPV": {
+        "id": "1362",
+        "path": "1362/TMPV/tata-motors-passenger-vehicles-ltd"
+    },
+    "ALKEM": {
+        "id": "1878",
+        "path": "1878/ALKEM/alkem-laboratories-ltd"
+    },
+    "ASTRAL": {
+        "id": "122",
+        "path": "122/ASTRAL/astral-ltd"
+    },
+    "LICI": {
+        "id": "829878",
+        "path": "829878/LICI/life-insurance-corporation-of-india"
+    },
+    "SAMMAANCAP": {
+        "id": "582",
+        "path": "582/SAMMAANCAP/sammaan-capital-ltd"
+    },
+    "MPHASIS": {
+        "id": "881",
+        "path": "881/MPHASIS/mphasis-ltd"
+    },
+    "CHOLAFIN": {
+        "id": "262",
+        "path": "262/CHOLAFIN/cholamandalam-investment-finance-company-ltd"
+    },
+    "KPITTECH": {
+        "id": "141324",
+        "path": "141324/KPITTECH/kpit-technologies-ltd"
+    },
+    "IDFCFIRSTB": {
+        "id": "1786",
+        "path": "1786/IDFCFIRSTB/idfc-first-bank-ltd"
+    },
+    "NAUKRI": {
+        "id": "913",
+        "path": "913/NAUKRI/info-edge-india-ltd"
+    },
+    "INDIGO": {
+        "id": "1784",
+        "path": "1784/INDIGO/interglobe-aviation-ltd"
+    },
+    "TATAELXSI": {
+        "id": "1358",
+        "path": "1358/TATAELXSI/tata-elxsi-ltd"
+    },
+    "HAL": {
+        "id": "80502",
+        "path": "80502/HAL/hindustan-aeronautics-ltd"
+    },
+    "GVT&D": {
+        "id": "67",
+        "path": "67/GVT&D/ge-vernova-t-d-india-ltd"
+    },
+    "LTM": {
+        "id": "4596",
+        "path": "4596/LTM/ltm-ltd"
+    },
+    "IRFC": {
+        "id": "402503",
+        "path": "402503/IRFC/indian-railway-finance-corporation-ltd"
+    },
+    "MUTHOOTFIN": {
+        "id": "897",
+        "path": "897/MUTHOOTFIN/muthoot-finance-ltd"
+    },
+    "RADICO": {
+        "id": "1090",
+        "path": "1090/RADICO/radico-khaitan-ltd"
+    },
+    "HINDPETRO": {
+        "id": "556",
+        "path": "556/HINDPETRO/hindustan-petroleum-corporation-ltd"
+    },
+    "TVSMOTOR": {
+        "id": "1430",
+        "path": "1430/TVSMOTOR/tvs-motor-company-ltd"
     }
 }
